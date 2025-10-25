@@ -1,2 +1,2 @@
 # Scalper
-Forex scalper EA
+Forex scalper EA working based on EMA crosses and candle pattern confirmation.
